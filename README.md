@@ -15,7 +15,7 @@ A returned score of 1 indicates the two texts are 100% similar.
 
 **stop_words**
 
-A python file that contains common stop words. Stop words are words that will return innacurate results and must be removed before processing the texts. The Jaccard Method is based on the number of matching words in two texts and the presence of stop words in the texts will yield inaccurate results and prevent false positives. This file may be modified depending on language and use case.
+A python file that contains common stop words. Stop words are words that will return innacurate results and must be removed before processing the texts. The Jaccard Method is based on the number of matching words in two texts and the presence of stop words in the texts will yield inaccurate results. The removal of stop words from texts will prevent false positives. This file may be modified depending on language and use case.
 
 **clean**
 
