@@ -1,10 +1,10 @@
 # Jaccard Text Similarity
 
-An application that takes two inputs as texts and utilizes the Jaccard method to compare how similar two texts are via a score between 0 and 1. 
+An application that takes two inputs as texts and utilizes the Jaccard method to compare how similar the two texts are via returning a score between 0 and 1. 
 
 # What is the Jaccard Method?
 
-The Jaccard Method, also known as Intersection over Union and the Jaccard similarity coefficient (originally coined coefficient de communauté by Paul Jaccard), is a statistic used for comparing the similarity and diversity of sample sets. The Jaccard coefficient measures similarity between finite sample sets, and is defined as the size of the intersection divided by the size of the union of the sample sets.
+The Jaccard Method, also known as Intersection over Union and the Jaccard similarity coefficient (originally coined coefficient de communauté by Paul Jaccard), is a statistic used for comparing the similarity and diversity of texts. The Jaccard coefficient measures similarity between finite texts, and is defined as the size of the intersection divided by the size of the union of the sample texts.
 
 # The Jaccard Method Score
 
